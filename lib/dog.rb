@@ -2,6 +2,7 @@
 class Dog 
   
   def bark
+    puts "Woofs"
   
 end
   
