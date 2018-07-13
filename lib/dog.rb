@@ -7,6 +7,6 @@ class Dog
   end 
   
   def sit 
-    puts ""
+    puts "The dog is sitting"
 end
   
